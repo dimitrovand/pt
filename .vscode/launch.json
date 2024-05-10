@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "debug",
+            "type": "debugpy",
+            "request": "launch",
+            "justMyCode": false,
+            "program": "tcp_server.py"
+        }
+    ]
+}
